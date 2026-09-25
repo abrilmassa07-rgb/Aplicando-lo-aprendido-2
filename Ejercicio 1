@@ -1,0 +1,27 @@
+Ejercicio 1
+
+1. Generalización simbólica
+
+Las generalizaciones simbólicas son las reglas y conceptos que están definidos en el lenguaje TypeScript.
+
+Algunas de sus características son:
+
+* Declaración de variables y constantes mediante let, const y var.
+* Uso de tipos de datos como string, number y boolean.
+* Uso de estructuras de control como if, else, switch, for y while.
+* Creación y utilización de funciones.
+* Uso de arreglos y objetos.
+* Utilización de interfaces y tipos para definir la estructura de los datos.
+* Uso de tipado estático, que permite indicar qué tipo de dato puede contener una variable, recibir una función o devolver como resultado.
+
+TypeScript mantiene gran parte de la sintaxis de JavaScript y, antes de ejecutarse, el código TypeScript se transforma a JavaScript.
+
+2. Creencias de los profesionales
+
+Entre las características que los profesionales suelen considerar ventajas de TypeScript frente a otros lenguajes se encuentra principalmente su tipado estático, ya que permite detectar determinados errores antes de ejecutar el programa.
+
+También se considera una ventaja que facilite la organización, comprensión y mantenimiento del código, especialmente en proyectos grandes.
+
+Además, cuenta con herramientas como el autocompletado y la detección de errores en editores como Visual Studio Code, lo que facilita el desarrollo.
+
+Otra característica valorada es que TypeScript mantiene compatibilidad con JavaScript, permitiendo utilizar muchas de sus características y herramientas, pero agregando funcionalidades para trabajar de una manera más controlada con los tipos de datos.
